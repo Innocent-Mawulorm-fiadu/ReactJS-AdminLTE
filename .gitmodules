@@ -1,0 +1,3 @@
+[submodule "Some-LTE-Admin-fronend"]
+	path = Some-LTE-Admin-fronend
+	url = https://github.com/Innocent-Mawulorm-fiadu/Some-LTE-Admin-frontend.git
